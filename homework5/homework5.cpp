@@ -1,3 +1,5 @@
+//Double linked lists creaed by Jeff Dickason dickasongaming@gmail.com
+
 #include <iostream>			//load libraries
 #include <string>
 #include "dlink.h"			//link dlink.h
